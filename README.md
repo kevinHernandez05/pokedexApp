@@ -8,6 +8,7 @@
 - [x] Retrofit 
 - [x] Android Studio
 - [x] Un poco de café Santo Domingo
+- [x] https://pokeapi.co/api/v2/ (El app consume este API)
 
 ## Screenshoots de proyecto en el dispositivo movil
 
